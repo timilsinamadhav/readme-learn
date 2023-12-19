@@ -9,6 +9,7 @@
 - first
 - second 
 - third
+
 ** this is bold text **
 * this text should be italic*
 > blockquote
